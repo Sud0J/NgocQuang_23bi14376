@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: NGUYEN NGOC QUANG
 * Student ID: 23BI14376
-* Student Group ID: Not-for-now
+* Student Group ID: 2
